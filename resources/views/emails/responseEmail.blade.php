@@ -25,7 +25,7 @@
 <body>
     <div><h1>Email Sent</h1>
 
-    <p>The email has been send</p>
+    <p>The email has been sent</p>
     </div>
 </body>
 </html>
